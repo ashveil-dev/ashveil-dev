@@ -2,9 +2,7 @@
 <div align="center">
   
 [![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-)](https://shields.io/) [![General badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://shields.io/)
-</div>
-
+)](https://shields.io/)
 ## 자기소개 🕶 
 - ☕️ 1999년 9월 28일에 태어난 프론트엔드 개발자 지망생 장동건입니다.
 - 📒 현재 사용하는 도구는 React, Typescript, Git, Tailwindcss, Zustand, Vite를 사용합니다
